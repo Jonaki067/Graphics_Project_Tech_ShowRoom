@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\basic_camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\bed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\chair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\cube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\cyl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\cylinder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\directionalLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\fan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\lamp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\pointLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\rack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\roundTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\sofa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\SpotLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\stb_image.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\swing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\walls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\graphics_project\Graphics-main\weardrobe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\EmissiveFragment.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\EmissiveVertex.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\fragmentShader.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\fragmentShaderForPhongShadingWithTexture.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\fragmentShaderlighting.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\vertexShader.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\vertexShaderForPhongShadingWithTexture.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\graphics_project\Graphics-main\vertexShaderLighting.vs">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Desktop\graphics_project\Graphics-main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\graphics_project\Graphics-main\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\opengl\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\Downloads\bluesky.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\whiteBackground.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\glass7.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\wood4.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\emoji.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\glass.png.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\wall5.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

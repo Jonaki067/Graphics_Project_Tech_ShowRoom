@@ -1,0 +1,376 @@
+﻿  main.cpp
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sofa.h(12,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sofa.h(12,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sofa.h(12,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sofa.h(91,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sofa.h(91,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(76,57): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(76,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(76,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(76,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(13,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(13,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(13,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(189,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(189,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(189,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(255,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(264,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(242,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(242,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\walls.h(242,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(14,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(57,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(77,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(77,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(146,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\chair.h(146,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(14,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(78,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(78,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(78,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(119,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(119,77): warning C4101: 'scaleMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(119,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(143,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(143,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(143,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(161,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(161,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(161,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(321,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(321,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\rack.h(321,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\lamp.h(23,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\lamp.h(23,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\lamp.h(62,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\lamp.h(62,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\lamp.h(62,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(11,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(14,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(15,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(16,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(17,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(18,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(93,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(96,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(97,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(98,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(99,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(100,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\bed.h(163,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(24,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(80,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(80,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(80,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(125,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(125,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(125,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(166,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(166,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(166,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(184,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(184,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(184,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(226,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(226,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(226,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(310,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(310,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(310,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(297,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(297,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(297,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(343,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(343,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(343,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(424,59): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(424,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(424,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(438,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(438,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(438,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(401,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(484,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\roundTable.h(484,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(58,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(58,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(58,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(12,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(12,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(12,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(64,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(64,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(64,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(116,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(116,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(116,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(179,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(179,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\weardrobe.h(179,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'D:/Downloads/Project_graphics/Project_graphics/Project_graphics/main.cpp')
+  
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(731,67): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(731,62): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(731,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(731,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(735,25): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(740,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(750,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(750,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(750,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(750,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(756,25): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(761,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1063,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1575,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1633,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1006,19): warning C4101: 'model2': unreferenced local variable
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1908,28): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1915,28): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1952,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(1959,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2070,15): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2070,34): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2070,53): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2070,72): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2133,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2136,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2146,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2152,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Project_graphics\Project_graphics\Project_graphics\main.cpp(2153,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  graphics_67.vcxproj -> F:\4-2\Graphics Lab\Project\graphics_67\graphics_67\x64\Debug\graphics_67.exe
